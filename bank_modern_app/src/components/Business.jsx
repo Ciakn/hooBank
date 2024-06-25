@@ -18,7 +18,7 @@ const Business = () => (
         balance transfer credit card can save you a lot of money in interest
         charges.
       </p>
-      <Button/>
+      <Button styles="mt-10" />
     </div>
   </section>
 );
